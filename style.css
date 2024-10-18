@@ -28,17 +28,17 @@ body {
   border-radius: 1.5rem;
   box-shadow: 4px 6px 4px rgba(255, 255, 255, 16%);
   margin: 0 1rem;
-  background: url("../Mine/img/landscape-1.png") no-repeat center center;
+  background: url("img/landscape-1.png") no-repeat center center;
   background-size: cover;
   overflow: hidden;
 }
 
 .img2 {
-  background-image: url("../Mine/img/landscape-2.png");
+  background-image: url("img/landscape-2.png");
 }
 
 .img3 {
-  background-image: url("../Mine/img/landscape-3.png");
+  background-image: url("img/landscape-3.png");
 }
 
 .flex1,
